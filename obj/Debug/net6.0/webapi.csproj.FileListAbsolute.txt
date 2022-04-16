@@ -25,3 +25,13 @@ C:\Users\Gizele\Documents\webapi\obj\Debug\net6.0\refint\webapi.dll
 C:\Users\Gizele\Documents\webapi\obj\Debug\net6.0\webapi.pdb
 C:\Users\Gizele\Documents\webapi\obj\Debug\net6.0\webapi.genruntimeconfig.cache
 C:\Users\Gizele\Documents\webapi\obj\Debug\net6.0\ref\webapi.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
