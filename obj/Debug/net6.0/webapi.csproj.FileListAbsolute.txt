@@ -35,3 +35,9 @@ C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.M
 C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Npgsql.dll
 C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Gizele\Documents\webapi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
