@@ -54,6 +54,7 @@ namespace webapi.Controllers
             if (qtdeMinusculas == 0) return BadRequest("A senha precisa ter pelo menos uma letra minúscula.");
             if (qtdeMaiusculas == 0) return BadRequest("A senha precisa ter pelo menos uma letra maiúscula.");
             if (qtdeSimbolos == 0) return BadRequest("A senha precisa ter pelo menos um caracter especial.");
+
             usuarioBanco.Nome = usuario.Nome ?? usuarioBanco.Nome;
             usuarioBanco.Email = usuario.Email ?? usuarioBanco.Email;
             usuarioBanco.Telefone = usuario.Telefone ?? usuarioBanco.Telefone;
