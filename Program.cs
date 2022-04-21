@@ -17,6 +17,7 @@ builder.Services.AddDbContext<UsuarioContext>(options =>
 });
 
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+builder.Services.AddCors();
 
 var app = builder.Build();
 
@@ -31,6 +32,10 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
+app.UseCors(option => option.AllowAnyHeader()
+                            .AllowAnyMethod()
+                            .AllowAnyOrigin()
+);
 app.MapControllers();
 
 app.Run();
