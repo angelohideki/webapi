@@ -26,7 +26,7 @@ namespace webapi.Controllers
         public async Task<IActionResult> GetById(int id)
         {
             var usuario = await _repository.BuscaUsuario(id);
-            return usuario != null ? Ok(usuario) : NotFound("Usuário não encontrado");
+            return usuario != null ? Ok(usuario) : NoContent();
         }
 
         [HttpPost]

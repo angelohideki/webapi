@@ -8,17 +8,9 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = webapi
 build_property.RootNamespace = webapi
-<<<<<<< HEAD
-build_property.ProjectDir = c:\Users\Gizele\Documents\webapi\
+build_property.ProjectDir = C:\Users\Gizele\Documents\webapi\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Gizele\Documents\webapi
-=======
-build_property.ProjectDir = c:\laragon\www\webapi\
-build_property.RazorLangVersion = 6.0
-build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\laragon\www\webapi
->>>>>>> 999b91637c37c998db4db9527b50defb47c285f9
+build_property.MSBuildProjectDirectory = C:\Users\Gizele\Documents\webapi
 build_property._RazorSourceGeneratorDebug = 
