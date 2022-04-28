@@ -59,7 +59,6 @@ namespace webapi.Controllers
             usuarioBanco.Email = usuario.Email ?? usuarioBanco.Email;
             usuarioBanco.Telefone = usuario.Telefone ?? usuarioBanco.Telefone;
             usuarioBanco.Senha = usuario.Senha ?? usuarioBanco.Senha;
-            usuarioBanco.Ativo = usuario.Ativo != usuarioBanco.Ativo ? usuario.Ativo : usuarioBanco.Ativo;
 
             _repository.AtualizaUsuario(usuarioBanco);
             return await _repository.SaveChangesAsync()
